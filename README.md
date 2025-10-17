@@ -1,6 +1,6 @@
-# hotel &resort
+# hotel & resort
 
-
+![Image](https://github.com/user-attachments/assets/e1da9374-e4aa-467a-88d9-73383f414f2c)
 
 
 
